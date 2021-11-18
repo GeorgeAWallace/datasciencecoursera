@@ -1,0 +1,12 @@
+---
+title: "HelloWorld"
+author: "George-Alan Wallace"
+date: "18/11/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## this is a R markdown file
